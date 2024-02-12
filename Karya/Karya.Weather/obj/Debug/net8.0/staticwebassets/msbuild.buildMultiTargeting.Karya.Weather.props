@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Karya.Weather.props" />
+</Project>
